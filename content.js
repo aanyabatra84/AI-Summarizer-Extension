@@ -1,5 +1,5 @@
 function getArticleText(){
-    console.log('getArticleText called');
+    console.log('getArticleText function called');
     const article = document.querySelector("article");
     if (article){
     console.log('Found <article> element');
